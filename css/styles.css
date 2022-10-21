@@ -768,7 +768,6 @@ div.container {
 .modal__element {
     position: relative;
     margin: 0;
-    height: 58px;
     margin-bottom: 10px;
 }
 .modal__element label {
@@ -810,7 +809,7 @@ div.container {
 }
 .modal__element textarea {
     padding-left: 16px;
-    max-width: 429px;
+    width: 429px;
     resize: none;
 }
 .modal__input {
@@ -830,7 +829,6 @@ div.container {
 }
 .modal__elementtextarea {
     width: 448px;
-    height: 138px;
     margin-bottom: 20px;
 }
 .modal__textarea {
